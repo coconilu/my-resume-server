@@ -9,4 +9,4 @@ app.use(static(
   path.join( __dirname,  staticPath)
 ))
 
-app.listen(3030);
+app.listen(3000);
