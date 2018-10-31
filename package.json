@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "deploy-company": "node deploy-company.js"
+    "deploy-company": "node deploy-company.js",
+    "deploy-home": "node deploy-home.js"
   },
   "keywords": [],
   "author": "coconilu",
